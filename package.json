@@ -1,0 +1,18 @@
+{
+  "name": "cli-node-yelp",
+  "version": "1.0.0",
+  "description": "\"CLI made with node.js and the Yelp API\"",
+  "main": "index.js",
+  "bin": {
+    "yelp": "./bin/yelp.js"
+  },
+  "author": "Erick Kokubum",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "colors": "^1.4.0",
+    "commander": "^6.1.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.3.3"
+  }
+}

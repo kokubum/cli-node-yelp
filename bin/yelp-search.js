@@ -27,7 +27,7 @@ program
   )
   .option(
     "-pg, --page <page>",
-    "Page number of the results, starting on 0",
+    "Page number of the results",
     "0"
   )
   .option("-o, --open", "Search for only the open restaurants", false)

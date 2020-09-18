@@ -43,8 +43,7 @@ $ yelp api_key food_places --help
     -rl, --radius-limit <radius>     Radius limit, in meters, that you wanna
                                      search -> Max Value (40 000 meters)
                                      (default: 40000)
-    -pg, --page <page>               Page number of the results, starting on 0
-                                     (default: "0")
+    -pg, --page <page>               Page number of the results
     -o, --open                       Search for only the open restaurants
                                      (default: false)
 ```

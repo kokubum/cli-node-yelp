@@ -56,4 +56,5 @@ $ yelp api_key food_places --help
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 * [Axios](https://www.npmjs.com/package/axios)
 * [ConfigStore](https://www.npmjs.com/package/configstore)
+* [Colors](https://www.npmjs.com/package/colors)
 

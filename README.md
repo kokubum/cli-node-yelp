@@ -44,6 +44,7 @@ $ yelp api_key food_places --help
                                      search -> Max Value (40 000 meters)
                                      (default: 40000)
     -pg, --page <page>               Page number of the results
+                                     (default: 0)
     -o, --open                       Search for only the open restaurants
                                      (default: false)
 ```

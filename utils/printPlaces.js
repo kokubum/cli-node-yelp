@@ -22,7 +22,6 @@ const printPlaces = (data, { page }) => {
   data.forEach((place) => {
     // Iterate through the fields of each place
     Object.keys(place).forEach((field) => {
-      // Test if the field that we are iterating are one of the required fields
       if (requiredFields.includes(field)) {
         // if the field is the location field we wanna handle in a specific way
         if (field === "location") {

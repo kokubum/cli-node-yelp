@@ -49,4 +49,6 @@ $ yelp api_key food_places --help
                                      (default: false)
 ```
 <img src="https://user-images.githubusercontent.com/47634578/93597831-11f48380-f992-11ea-9bdc-d541aa032b0a.gif" width="500" height="300"/>
+<br>
 
+<strong>HAVE FUN! :smiley:<strong>
